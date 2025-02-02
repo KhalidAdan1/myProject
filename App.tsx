@@ -60,7 +60,6 @@ function App(): React.JSX.Element {
   return (
     <SafeAreaView >
     <Text>Welcome to my app!</Text>
-
     </SafeAreaView>
   );
 }
